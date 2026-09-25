@@ -20,7 +20,7 @@ While the UI, Interactive Map, and Conversational Chat features are fully functi
 ---
 
 ## 🌐 Live Demo Link
-*(Insert your Render URL here, e.g., https://weathergpt-sih.onrender.com)*
+https://weathergpt-demo.onrender.com
 
 ---
 
